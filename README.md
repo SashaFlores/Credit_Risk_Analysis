@@ -87,13 +87,19 @@ For each of the above, you will need to:
 
     ![](Images/Over.JPG)
 
+    
     **Smote Over Sampling**
+    
     ![](Images/Smote.JPG)
 
+    
     **Under Sampling**
+    
     ![](Images/Under.JPG)
 
+    
     **Combination Sampling**
+    
     ![](Images/Combination.JPG)
 
 
@@ -123,10 +129,14 @@ Be sure to complete the following steps for each model:
 
 4. Print the confusion matrix from `sklearn.metrics`.
 5. Generate a classification report using the `imbalanced_classification_report` from imbalanced learn.
+
 **Balanced Random Forest Classifier**
+
 ![](Images/B.R.JPG)
 
-    **Easy Ensemble Classifier**
+
+**Easy Ensemble Classifier**
+
 ![](Images/Easy.JPG)
 
 6. For the balanced random forest classifier only, print the feature importance sorted in descending order (most important feature to least important) along with the feature score.
