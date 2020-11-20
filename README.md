@@ -8,12 +8,7 @@ Auto loans, mortgages, student loans, debt consolidation ... these are just a fe
 
 In this project, you will build and evaluate several machine-learning models to predict credit risk using free data from LendingClub. Credit risk is an inherently imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans), so you will need to employ different techniques for training and evaluating models with imbalanced classes. You will use the imbalanced-learn and Scikit-learn libraries to build and evaluate models using the two following techniques:
 
-1. [Risky Business](#risky-business)
-   1. [Background](#background)
-      1. [Files](#files)
-   2. [Resampling](#resampling)
-   3. [Ensemble Learning](#ensemble-learning)
-   4. [Resources](#resources)
+  
 
 ---
 
