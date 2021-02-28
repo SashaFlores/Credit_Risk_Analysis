@@ -16,7 +16,9 @@ In this project, you will build and evaluate several machine-learning models to 
 
 [Ensemble Starter Notebook](Starter_Code/credit_risk_ensemble.ipynb)
 
-[Lending Club Loans Data](Instructions/Resources/LoanStats_2019Q1.csv.zip)
+[Lending Club Loans Data](Resources/LoanStats_2019Q1.csv.zip)
+
+[Evaluation Report](Summary_Report.md)
 
 ---
 
@@ -143,7 +145,7 @@ Be sure to complete the following steps for each model:
         importances_sorted = sorted(zip(model.feature_importances_, X.columns), reverse=True)
 
 ------
-You should now be able to answer the following:
+After running and evaluating the ML Models, you should now be able to answer the following:
 
 > Which model had the best balanced accuracy score?
 >
